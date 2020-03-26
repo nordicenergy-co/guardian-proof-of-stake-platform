@@ -33,8 +33,7 @@ in such a way that no trusted third parties are required anymore.
   - Unix: `./start.sh`
   - Mac: `./run.command`
   - Window: `run.bat`
-  - wait for the JavaFX wallet window to open
-  - on platforms without JavaFX, open http://localhost:27876/ in a browser
+  - wait for the JavaFX wallet window to open on platforms without JavaFX, open http://localhost:27876/ in a browser
 
 ----
 ## Compile it! ##
