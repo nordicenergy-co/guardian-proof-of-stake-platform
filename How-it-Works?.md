@@ -1,5 +1,5 @@
 
-# The Guardian - Proof of Stake Consensus Protocol (idea)
+# The Guardian - Proof of Stake Consensus Protocol
 
 
 ## Blockchain Business Platform
@@ -232,29 +232,6 @@ We do not yet know whether the final toll will be measured in thousands or hundr
 #### Token Economies
 
 Nordic Energy´s COVI token and Guardian native token (GRD) innovations saves lives and human suffering for billions. It helps communities to build healthier environment and Businesses create trust and stability. 
-
-
-
-## TODO
-
-1. Business, ecosystem, blockchain developments, architecture and developing
-2. Token economies and structures
-3. Smart Contracts & protocols
-4. Project Website
-5. Server installation
-6. Platform & Side Chains developments
-7. Whitepaper development and technical writings
-8. Token/coin functionality
-5. Native token
-6. Social media and marketing
-7. Team and project developments
-8. Web developments and graphics desings
-9. Brand & Logo Designs
-10. Infographics, illustrations
-11. Web & Wallet applications (dApps)
-12. ICO/STO management & user dashboard
-13. Disaster assistance application.
-14. Security / Asset token
 
 
 
