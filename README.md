@@ -3,8 +3,8 @@
 
 ----
 ## What is Guardian? ##
-Guardian is a modern economic system based on cryptography and blockchain technology. The Guardian multi-chain
- blockchain platform with a unique parent - side chain architecture. The security of the whole network is provided by the parent Guardian blockchain while the interoperable side chains have all the rich functionality. This elegant design and access to hybrid user permissioning capabilities are the key to the flexibility necessary for a variety of use cases and opens the door towards mainstream adoption of blockchain technology. Not only that - Guardian is created with scalability in mind and solves many existing industry problems such as blockchain bloat, single token dependency and the need for easily customizable-yet-compatible blockchain solutions.
+
+Guardian is a modern economic system based on cryptography and blockchain technology. The Guardian multi-chain blockchain platform with a unique parent - side chain architecture. The security of the whole network is provided by the parent Guardian blockchain while the interoperable side chains have all the rich functionality. This elegant design and access to hybrid user permissioning capabilities are the key to the flexibility necessary for a variety of use cases and opens the door towards mainstream adoption of blockchain technology. Not only that - Guardian is created with scalability in mind and solves many existing industry problems such as blockchain bloat, single token dependency and the need for easily customizable-yet-compatible blockchain solutions.
  
  ----
 ## With Guardian, you can manage and interact with: ##
